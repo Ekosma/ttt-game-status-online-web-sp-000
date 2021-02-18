@@ -33,6 +33,3 @@ def won_board(board)
   }
     return false
   end
-
-  
-
